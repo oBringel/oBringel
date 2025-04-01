@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo Áquila Leite Bringel, tenho 19 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho um carinho pela tecnologia e pretendo seguir carreira como FullStack.
+Me chamo Áquila Leite Bringel, tenho 19 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho um carinho pela tecnologia e pretendo seguir carreira FullStack.
 
 ---
 
